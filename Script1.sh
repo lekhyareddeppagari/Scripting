@@ -5,5 +5,5 @@ echo "I am working in REQ092348"
 echo "resolved the issue by lekhya"
 echo "hello"
 echo "accesing github by git bash"
-echo "checking merge conflict"
+
 
