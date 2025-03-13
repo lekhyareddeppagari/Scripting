@@ -16,7 +16,7 @@ if [ $a -lt 100 -a $b -gt 15 ]
 then
  echo "$a -lt 100 -a $b -gt 15 : returns true"
 else
- echo "$a -lt 100 -a $b -gt 15 : returns false"
+ echo "$a -lt 100 -a $b -gt 15 : returns False"
 fi
 
 if [ $a -lt 100 -o $b -gt 100 ]
